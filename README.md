@@ -1,2 +1,2 @@
 # Machine-Learning-for-Human-Vision-and-Language
-Python notebooks for the MLHVL course
+These are Python notebooks for the MLHVL course (Master's in AI at Utrecht University).
